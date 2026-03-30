@@ -24,4 +24,4 @@ Main commands I used:
 - `my edited final version`
 
 ## Video walkthrough
-Video link: [Add unlisted YouTube or Vimeo link here]
+Video link: https://youtu.be/UXPUOgeiVEw
